@@ -1,0 +1,3 @@
+__CPROVER_cover((!(!(101<a190474899)&&cf==1)));{printf("FOUND at %d \n ",__LINE__);}
+__CPROVER_cover((!(101<a190474899&&!(cf==1))));{printf("FOUND at %d \n ",__LINE__);}
+__CPROVER_cover((!(101<a190474899&&cf==1)));{printf("FOUND at %d \n ",__LINE__);}

@@ -1,0 +1,4 @@
+__CPROVER_cover((!(!(a162289881==11)&&cf==1&&a778335169==a2027611119[2])));{printf("FOUND at %d \n ",__LINE__);}
+__CPROVER_cover((!(a162289881==11&&!(cf==1)&&a778335169==a2027611119[2])));{printf("FOUND at %d \n ",__LINE__);}
+__CPROVER_cover((!(a162289881==11&&cf==1&&!(a778335169==a2027611119[2]))));{printf("FOUND at %d \n ",__LINE__);}
+__CPROVER_cover((!(a162289881==11&&cf==1&&a778335169==a2027611119[2])));{printf("FOUND at %d \n ",__LINE__);}

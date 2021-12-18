@@ -1,0 +1,6 @@
+__CPROVER_cover((!(!(a58==3)||!(a58==10)||!(!(a147==32))||a119==14||a119==11)));{printf("FOUND at %d \n ",__LINE__);}
+__CPROVER_cover((!(!(a58==3)||!(a58==10)||!(a147==32)||!(a119==14)||!(a119==11))));{printf("FOUND at %d \n ",__LINE__);}
+__CPROVER_cover((!(!(a58==3)||!(a58==10)||!(a147==32)||!(a119==14)||a119==11)));{printf("FOUND at %d \n ",__LINE__);}
+__CPROVER_cover((!(!(a58==3)||!(a58==10)||!(a147==32)||a119==14||a119==11)));{printf("FOUND at %d \n ",__LINE__);}
+__CPROVER_cover((!(!(a58==3)||a58==10||!(a147==32)||a119==14||a119==11)));{printf("FOUND at %d \n ",__LINE__);}
+__CPROVER_cover((!(a58==3||a58==10||!(a147==32)||a119==14||a119==11)));{printf("FOUND at %d \n ",__LINE__);}

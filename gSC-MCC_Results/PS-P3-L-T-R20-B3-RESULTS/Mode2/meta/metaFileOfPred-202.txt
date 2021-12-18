@@ -1,0 +1,3 @@
+__CPROVER_cover((!(!(cf==1)&&a1730688951==7)));{printf("FOUND at %d \n ",__LINE__);}
+__CPROVER_cover((!(cf==1&&!(a1730688951==7))));{printf("FOUND at %d \n ",__LINE__);}
+__CPROVER_cover((!(cf==1&&a1730688951==7)));{printf("FOUND at %d \n ",__LINE__);}

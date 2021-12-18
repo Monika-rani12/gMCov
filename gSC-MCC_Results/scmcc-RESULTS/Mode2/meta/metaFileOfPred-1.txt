@@ -1,0 +1,5 @@
+__CPROVER_cover((!(!(X>50)&&Y==100||!(Z<90))));{printf("FOUND at %d \n ",__LINE__);}
+__CPROVER_cover((!(!(X>50)&&Y==100||Z<90)));{printf("FOUND at %d \n ",__LINE__);}
+__CPROVER_cover((!(X>50&&!(Y==100)||!(Z<90))));{printf("FOUND at %d \n ",__LINE__);}
+__CPROVER_cover((!(X>50&&!(Y==100)||Z<90)));{printf("FOUND at %d \n ",__LINE__);}
+__CPROVER_cover((!(X>50&&Y==100||Z<90)));{printf("FOUND at %d \n ",__LINE__);}

@@ -1,0 +1,9 @@
+__CPROVER_cover((!(!(a89==34)&&a89==34&&a89==34&&a119==11&&a89==34&&input==4&&cf==1&&a89==34)));{printf("FOUND at %d \n ",__LINE__);}
+__CPROVER_cover((!(a89==34&&!(a89==34)&&a89==34&&a119==11&&a89==34&&input==4&&cf==1&&a89==34)));{printf("FOUND at %d \n ",__LINE__);}
+__CPROVER_cover((!(a89==34&&a89==34&&!(a89==34)&&a119==11&&a89==34&&input==4&&cf==1&&a89==34)));{printf("FOUND at %d \n ",__LINE__);}
+__CPROVER_cover((!(a89==34&&a89==34&&a89==34&&!(a119==11)&&a89==34&&input==4&&cf==1&&a89==34)));{printf("FOUND at %d \n ",__LINE__);}
+__CPROVER_cover((!(a89==34&&a89==34&&a89==34&&a119==11&&!(a89==34)&&input==4&&cf==1&&a89==34)));{printf("FOUND at %d \n ",__LINE__);}
+__CPROVER_cover((!(a89==34&&a89==34&&a89==34&&a119==11&&a89==34&&!(input==4)&&cf==1&&a89==34)));{printf("FOUND at %d \n ",__LINE__);}
+__CPROVER_cover((!(a89==34&&a89==34&&a89==34&&a119==11&&a89==34&&input==4&&!(cf==1)&&a89==34)));{printf("FOUND at %d \n ",__LINE__);}
+__CPROVER_cover((!(a89==34&&a89==34&&a89==34&&a119==11&&a89==34&&input==4&&cf==1&&!(a89==34))));{printf("FOUND at %d \n ",__LINE__);}
+__CPROVER_cover((!(a89==34&&a89==34&&a89==34&&a119==11&&a89==34&&input==4&&cf==1&&a89==34)));{printf("FOUND at %d \n ",__LINE__);}

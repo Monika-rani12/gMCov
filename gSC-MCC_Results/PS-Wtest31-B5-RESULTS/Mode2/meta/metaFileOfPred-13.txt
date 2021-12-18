@@ -1,0 +1,3 @@
+__CPROVER_cover((!(!(a162289881==13)||!(a778335169==9))));{printf("FOUND at %d \n ",__LINE__);}
+__CPROVER_cover((!(!(a162289881==13)||a778335169==9)));{printf("FOUND at %d \n ",__LINE__);}
+__CPROVER_cover((!(a162289881==13||a778335169==9)));{printf("FOUND at %d \n ",__LINE__);}

@@ -1,0 +1,3 @@
+__CPROVER_cover((!(!(16==a1979864000[5])&&cf==1)));{printf("FOUND at %d \n ",__LINE__);}
+__CPROVER_cover((!(16==a1979864000[5]&&!(cf==1))));{printf("FOUND at %d \n ",__LINE__);}
+__CPROVER_cover((!(16==a1979864000[5]&&cf==1)));{printf("FOUND at %d \n ",__LINE__);}

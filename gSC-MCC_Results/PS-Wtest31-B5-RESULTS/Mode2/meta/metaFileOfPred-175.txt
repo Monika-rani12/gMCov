@@ -1,0 +1,11 @@
+__CPROVER_cover((!(!(symb!=7)&&symb!=10&&symb!=8&&symb!=3&&symb!=6&&symb!=1&&symb!=9&&symb!=4&&symb!=5&&symb!=2)));{printf("FOUND at %d \n ",__LINE__);}
+__CPROVER_cover((!(symb!=7&&!(symb!=10)&&symb!=8&&symb!=3&&symb!=6&&symb!=1&&symb!=9&&symb!=4&&symb!=5&&symb!=2)));{printf("FOUND at %d \n ",__LINE__);}
+__CPROVER_cover((!(symb!=7&&symb!=10&&!(symb!=8)&&symb!=3&&symb!=6&&symb!=1&&symb!=9&&symb!=4&&symb!=5&&symb!=2)));{printf("FOUND at %d \n ",__LINE__);}
+__CPROVER_cover((!(symb!=7&&symb!=10&&symb!=8&&!(symb!=3)&&symb!=6&&symb!=1&&symb!=9&&symb!=4&&symb!=5&&symb!=2)));{printf("FOUND at %d \n ",__LINE__);}
+__CPROVER_cover((!(symb!=7&&symb!=10&&symb!=8&&symb!=3&&!(symb!=6)&&symb!=1&&symb!=9&&symb!=4&&symb!=5&&symb!=2)));{printf("FOUND at %d \n ",__LINE__);}
+__CPROVER_cover((!(symb!=7&&symb!=10&&symb!=8&&symb!=3&&symb!=6&&!(symb!=1)&&symb!=9&&symb!=4&&symb!=5&&symb!=2)));{printf("FOUND at %d \n ",__LINE__);}
+__CPROVER_cover((!(symb!=7&&symb!=10&&symb!=8&&symb!=3&&symb!=6&&symb!=1&&!(symb!=9)&&symb!=4&&symb!=5&&symb!=2)));{printf("FOUND at %d \n ",__LINE__);}
+__CPROVER_cover((!(symb!=7&&symb!=10&&symb!=8&&symb!=3&&symb!=6&&symb!=1&&symb!=9&&!(symb!=4)&&symb!=5&&symb!=2)));{printf("FOUND at %d \n ",__LINE__);}
+__CPROVER_cover((!(symb!=7&&symb!=10&&symb!=8&&symb!=3&&symb!=6&&symb!=1&&symb!=9&&symb!=4&&!(symb!=5)&&symb!=2)));{printf("FOUND at %d \n ",__LINE__);}
+__CPROVER_cover((!(symb!=7&&symb!=10&&symb!=8&&symb!=3&&symb!=6&&symb!=1&&symb!=9&&symb!=4&&symb!=5&&!(symb!=2))));{printf("FOUND at %d \n ",__LINE__);}
+__CPROVER_cover((!(symb!=7&&symb!=10&&symb!=8&&symb!=3&&symb!=6&&symb!=1&&symb!=9&&symb!=4&&symb!=5&&symb!=2)));{printf("FOUND at %d \n ",__LINE__);}

@@ -1,0 +1,4 @@
+__CPROVER_cover((!(!(40<a136)||!(!(a48==a87[1]))||a48==6)));{printf("FOUND at %d \n ",__LINE__);}
+__CPROVER_cover((!(!(40<a136)||!(a48==a87[1])||!(a48==6))));{printf("FOUND at %d \n ",__LINE__);}
+__CPROVER_cover((!(!(40<a136)||!(a48==a87[1])||a48==6)));{printf("FOUND at %d \n ",__LINE__);}
+__CPROVER_cover((!(40<a136||!(a48==a87[1])||a48==6)));{printf("FOUND at %d \n ",__LINE__);}

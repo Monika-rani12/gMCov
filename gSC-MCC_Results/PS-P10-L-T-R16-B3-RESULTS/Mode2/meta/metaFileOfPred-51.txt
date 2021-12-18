@@ -1,0 +1,10 @@
+__CPROVER_cover((!(!(a109==10)&&!(a134==4)||a90==11&&-48<a61&&41>=a61||!(cf!=1))));{printf("FOUND at %d \n ",__LINE__);}
+__CPROVER_cover((!(!(a109==10)&&!(a134==4)||a90==11&&-48<a61&&41>=a61||cf!=1)));{printf("FOUND at %d \n ",__LINE__);}
+__CPROVER_cover((!(a109==10&&!(!(a134==4))||a90==11&&-48<a61&&41>=a61||cf!=1)));{printf("FOUND at %d \n ",__LINE__);}
+__CPROVER_cover((!(a109==10&&!(a134==4)||!(a90==11)&&-48<a61&&41>=a61||!(cf!=1))));{printf("FOUND at %d \n ",__LINE__);}
+__CPROVER_cover((!(a109==10&&!(a134==4)||!(a90==11)&&-48<a61&&41>=a61||cf!=1)));{printf("FOUND at %d \n ",__LINE__);}
+__CPROVER_cover((!(a109==10&&!(a134==4)||a90==11&&!(-48<a61)&&41>=a61||!(cf!=1))));{printf("FOUND at %d \n ",__LINE__);}
+__CPROVER_cover((!(a109==10&&!(a134==4)||a90==11&&!(-48<a61)&&41>=a61||cf!=1)));{printf("FOUND at %d \n ",__LINE__);}
+__CPROVER_cover((!(a109==10&&!(a134==4)||a90==11&&-48<a61&&!(41>=a61)||!(cf!=1))));{printf("FOUND at %d \n ",__LINE__);}
+__CPROVER_cover((!(a109==10&&!(a134==4)||a90==11&&-48<a61&&!(41>=a61)||cf!=1)));{printf("FOUND at %d \n ",__LINE__);}
+__CPROVER_cover((!(a109==10&&!(a134==4)||a90==11&&-48<a61&&41>=a61||cf!=1)));{printf("FOUND at %d \n ",__LINE__);}

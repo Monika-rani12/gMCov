@@ -1,0 +1,4 @@
+__CPROVER_cover((!(!(cf==1)&&input==inputs[5]&&a1663271343==32)));{printf("FOUND at %d \n ",__LINE__);}
+__CPROVER_cover((!(cf==1&&!(input==inputs[5])&&a1663271343==32)));{printf("FOUND at %d \n ",__LINE__);}
+__CPROVER_cover((!(cf==1&&input==inputs[5]&&!(a1663271343==32))));{printf("FOUND at %d \n ",__LINE__);}
+__CPROVER_cover((!(cf==1&&input==inputs[5]&&a1663271343==32)));{printf("FOUND at %d \n ",__LINE__);}

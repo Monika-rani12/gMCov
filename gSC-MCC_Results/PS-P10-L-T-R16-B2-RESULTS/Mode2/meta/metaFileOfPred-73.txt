@@ -1,0 +1,3 @@
+__CPROVER_cover((!(!(a48==a87[2])&&!(85==a113[0]))));{printf("FOUND at %d \n ",__LINE__);}
+__CPROVER_cover((!(a48==a87[2]&&!(!(85==a113[0])))));{printf("FOUND at %d \n ",__LINE__);}
+__CPROVER_cover((!(a48==a87[2]&&!(85==a113[0]))));{printf("FOUND at %d \n ",__LINE__);}

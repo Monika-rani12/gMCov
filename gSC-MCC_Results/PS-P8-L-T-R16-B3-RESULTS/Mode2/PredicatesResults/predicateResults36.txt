@@ -1,0 +1,5 @@
+F,F,F,F,
+F,F,F,T,
+F,F,T,X,
+F,T,X,X,
+T,X,X,X,

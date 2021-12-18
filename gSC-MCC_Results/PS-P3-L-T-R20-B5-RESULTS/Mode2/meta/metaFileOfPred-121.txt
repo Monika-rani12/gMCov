@@ -1,0 +1,3 @@
+__CPROVER_cover((!(!(380<a121246312)&&465>=a121246312)));{printf("FOUND at %d \n ",__LINE__);}
+__CPROVER_cover((!(380<a121246312&&!(465>=a121246312))));{printf("FOUND at %d \n ",__LINE__);}
+__CPROVER_cover((!(380<a121246312&&465>=a121246312)));{printf("FOUND at %d \n ",__LINE__);}

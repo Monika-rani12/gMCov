@@ -1,0 +1,6 @@
+__CPROVER_cover((!(!(!(a1056944550==33))||cf==1&&!(a1518986556==4)||cf!=1)));{printf("FOUND at %d \n ",__LINE__);}
+__CPROVER_cover((!(!(a1056944550==33)||!(cf==1)&&!(a1518986556==4)||!(cf!=1))));{printf("FOUND at %d \n ",__LINE__);}
+__CPROVER_cover((!(!(a1056944550==33)||!(cf==1)&&!(a1518986556==4)||cf!=1)));{printf("FOUND at %d \n ",__LINE__);}
+__CPROVER_cover((!(!(a1056944550==33)||cf==1&&!(!(a1518986556==4))||cf!=1)));{printf("FOUND at %d \n ",__LINE__);}
+__CPROVER_cover((!(!(a1056944550==33)||cf==1&&!(a1518986556==4)||!(cf!=1))));{printf("FOUND at %d \n ",__LINE__);}
+__CPROVER_cover((!(!(a1056944550==33)||cf==1&&!(a1518986556==4)||cf!=1)));{printf("FOUND at %d \n ",__LINE__);}
