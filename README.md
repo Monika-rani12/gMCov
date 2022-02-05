@@ -1,4 +1,4 @@
-# gProf
+#gProf: A gCov based new profiler for MC/DC and SC-MCC
 
 gProf is a generalized tool that can be plugged with any test case generator. It requires a set of test cases and a program to produce score%(MC/DC or SC-MCC) with a detailed report.
 
