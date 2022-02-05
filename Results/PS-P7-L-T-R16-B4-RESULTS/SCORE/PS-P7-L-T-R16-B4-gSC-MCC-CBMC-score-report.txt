@@ -1,0 +1,3 @@
+***Total no. of feasible SC-MCC sequences =  88
+***Total no. of SC-MCC sequences =  832
+***SC-MCC Score =  10

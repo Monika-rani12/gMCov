@@ -1,2 +1,0 @@
-***Total gSC-MCC runtime in seconds 331.280339426
-Total gSC-MCC runtime: 0:00:05:31.2803

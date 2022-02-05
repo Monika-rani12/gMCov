@@ -1,0 +1,24 @@
+***Total AFL Test case generation time in seconds 67.048303725
+Total AFL Test case generation time: 0:00:01:7.0483
+****************AFL Test case generation time Report - End**************************
+***Total CBMC TC generation time in seconds 3.344044128
+Total CBMC TC generation time: 0:00:00:3.3440
+****************CBMC TC generation time Report - End**************************
+***Total MCDC Meta Program generation time in seconds 7.880987564
+Total MCDC Meta Program generation time: 0:00:00:7.8810
+****************MCDC Meta Program generation time Report - End**************************
+***Total AFL gMCDC runtime in seconds .388312563
+Total AFL gMCDC runtime: 0:00:00:0.3883
+****************AFL gMCDC time Report - End**************************
+***Total CBMC gMCDC  runtime in seconds .335408051
+Total CBMC gMCDC  runtime: 0:00:00:0.3354
+****************CBMC gMCDC  time Report - End**************************
+***Total SC-MCC Meta Program generation time in seconds 218.679275577
+Total SC-MCC Meta Program generation time: 0:00:03:38.6793
+****************SC-MCC Meta Program generation time Report - End**************************
+***Total gSC-MCC - AFL - runtime in seconds .584067508
+Total gSC-MCC -AFL - runtime: 0:00:00:0.5841
+****************gSC-MCC -AFL -  time Report - End**************************
+***Total gSC-MCC - CBMC - runtime in seconds .595753044
+Total  gSC-MCC - CBMC - runtime: 0:00:00:0.5958
+**************** gSC-MCC - CBMC -  time Report - End**************************
