@@ -1,5 +1,5 @@
-# gProf: A gCov based new profiler for MC/DC and SC-MCC
-gProf is a generalized tool that can be plugged with any test case generator. It requires a set of test cases and a program to produce score%(MC/DC or SC-MCC) with a detailed report.
+# gMCov: A gCov based new profiler for MC/DC and SC-MCC
+gMCov is a generalized tool that can be plugged with any test case generator. It requires a set of test cases and a program to produce score%(MC/DC or SC-MCC) with a detailed report.
 
 Currently in this version, there are five primary directories:
 
